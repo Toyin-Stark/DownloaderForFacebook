@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Video Downloader</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome!</string>
+    <string name="message">Open Facebook app and copy a Facebook video url to download it on your device.</string>
+    <string name="empty">Video Downloader For Facebook</string>
+    <string name="fb_button">Open Facebook</string>
+    <string name="learn">Watch Video</string>
+    <string name="bannerTitle">Downloading…</string>
+    <string name="home_tab">Home</string>
+    <string name="save_tab">Downloads</string>
+    <string name="sorry">Sorry this media cannot be downloaded</string>
+
+
+    <string name="content_image">Downloaded Image</string>
+    <string name="content_video">video button</string>
+
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+</resources>
